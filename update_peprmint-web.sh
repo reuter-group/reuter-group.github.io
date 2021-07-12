@@ -1,4 +1,6 @@
-### build the latest version
+### Build the latest version
+## NOTE: only build when the source repository (peprmint-web) working tree is clean
+
 rm -rf peprmint/*
 
 cd ../peprmint-web/web-client/
